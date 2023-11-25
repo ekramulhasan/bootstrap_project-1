@@ -5,6 +5,8 @@ use boostrap.popper.js
 https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js
 https://fontawesome.com/download
 
+ctrl+shift+m (mobile mood)
+
 jquery-1.12
 =========================================================
 https://code.jquery.com/jquery-1.12.4.min.js
