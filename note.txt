@@ -1,0 +1,16 @@
+https://getbootstrap.com/docs/5.3/getting-started/download/
+https://fonts.google.com/specimen/Open+Sans?query=open+sans
+use bootstrap.main.js
+use boostrap.popper.js
+https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js
+https://fontawesome.com/download
+
+jquery-1.12
+=========================================================
+https://code.jquery.com/jquery-1.12.4.min.js
+
+font-awesome
+=========================================================
+https://fontawesome.com/download
+use all.min.css
+use webfonts folder //copy and past root folder
