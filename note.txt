@@ -4,6 +4,7 @@ use bootstrap.main.js
 use boostrap.popper.js
 https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js
 https://fontawesome.com/download
+https://www.pexels.com/search/videos/website%20background/
 
 ctrl+shift+m (mobile mood)
 
@@ -16,3 +17,5 @@ font-awesome
 https://fontawesome.com/download
 use all.min.css
 use webfonts folder //copy and past root folder
+
+text-transform
