@@ -19,3 +19,7 @@ use all.min.css
 use webfonts folder //copy and past root folder
 
 text-transform
+
+project area
+========================
+g-0 // no gutter mean padding 0
