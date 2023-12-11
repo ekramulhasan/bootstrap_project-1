@@ -23,3 +23,5 @@ text-transform
 project area
 ========================
 g-0 // no gutter mean padding 0
+
+some editing
